@@ -2,3 +2,5 @@
 test
 テストだよ〜んfrom github README
 またしてもテストだよ〜ん　from ローカル README
+PUSHしたい！！　from ローカル README
+

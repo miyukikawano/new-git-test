@@ -1,2 +1,1 @@
-Test.txtだよん
-リモートレポジトリからの変更です　test.txt
+aaa

@@ -5,3 +5,4 @@ test
 PUSHしたい！！　from ローカル README
 PULLしたい！！　from リモート README
 再度PULLしたい！！　from リモート README
+0531 PUSHの復習です　from ローカル README
